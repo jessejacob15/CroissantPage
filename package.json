@@ -1,7 +1,7 @@
 {
   "name": "croissantCoin",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://jessejacob15.github.io/croissantCoin",
   "dependencies": {
     "-": "^0.0.1",
