@@ -10,15 +10,15 @@ const Navigation = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="m-auto">
-              <Nav.Link href="#home">
+              <Nav.Link href="https://t.me/crossiantportal">
                 <h1>Telegram</h1>
               </Nav.Link>
-              <Nav.Link href="#link">
+              <Nav.Link href="https://twitter.com/CroissantDAO">
                 <h1>Twitter</h1>
               </Nav.Link>
-              <Nav.Link href="#home">Whitepaper—Coming Soon</Nav.Link>
-              <Nav.Link href="#link">Chart—Coming Soon</Nav.Link>
-              <Nav.Link href="#home">Buy—Coming Soon</Nav.Link>
+              <Nav.Link href="#">Whitepaper—Coming Soon</Nav.Link>
+              <Nav.Link href="#">Chart—Coming Soon</Nav.Link>
+              <Nav.Link href="#">Buy—Coming Soon</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
