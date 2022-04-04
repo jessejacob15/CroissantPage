@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/croissaxxxxxntCoin/static/css/main.34b21b91.chunk.css",
-    "main.js": "/croissaxxxxxntCoin/static/js/main.410a9329.chunk.js",
-    "main.js.map": "/croissaxxxxxntCoin/static/js/main.410a9329.chunk.js.map",
-    "runtime-main.js": "/croissaxxxxxntCoin/static/js/runtime-main.2494f4c7.js",
-    "runtime-main.js.map": "/croissaxxxxxntCoin/static/js/runtime-main.2494f4c7.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/croissaxxxxxntCoin/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.a4c136f7.chunk.js": "/croissaxxxxxntCoin/static/js/2.a4c136f7.chunk.js",
-    "static/js/2.a4c136f7.chunk.js.map": "/croissaxxxxxntCoin/static/js/2.a4c136f7.chunk.js.map",
-    "index.html": "/croissaxxxxxntCoin/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/croissaxxxxxntCoin/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.34b21b91.chunk.css.map": "/croissaxxxxxntCoin/static/css/main.34b21b91.chunk.css.map",
-    "static/js/2.a4c136f7.chunk.js.LICENSE.txt": "/croissaxxxxxntCoin/static/js/2.a4c136f7.chunk.js.LICENSE.txt"
+    "main.css": "/croissantCoin/static/css/main.34b21b91.chunk.css",
+    "main.js": "/croissantCoin/static/js/main.410a9329.chunk.js",
+    "main.js.map": "/croissantCoin/static/js/main.410a9329.chunk.js.map",
+    "runtime-main.js": "/croissantCoin/static/js/runtime-main.95956df1.js",
+    "runtime-main.js.map": "/croissantCoin/static/js/runtime-main.95956df1.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/croissantCoin/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a4c136f7.chunk.js": "/croissantCoin/static/js/2.a4c136f7.chunk.js",
+    "static/js/2.a4c136f7.chunk.js.map": "/croissantCoin/static/js/2.a4c136f7.chunk.js.map",
+    "index.html": "/croissantCoin/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/croissantCoin/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.34b21b91.chunk.css.map": "/croissantCoin/static/css/main.34b21b91.chunk.css.map",
+    "static/js/2.a4c136f7.chunk.js.LICENSE.txt": "/croissantCoin/static/js/2.a4c136f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2494f4c7.js",
+    "static/js/runtime-main.95956df1.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.a4c136f7.chunk.js",
     "static/css/main.34b21b91.chunk.css",
