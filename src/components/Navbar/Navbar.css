@@ -1,0 +1,44 @@
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  color: black;
+  background-color: #c7c7c7;
+}
+
+h1 {
+  font-family: Gaegu;
+  color: white;
+  font-size: 25px;
+}
+
+h1:hover {
+  color: #ff00ff;
+}
+
+a {
+  font-family: Gaegu;
+  font-size: 25px;
+  color: #c7c7c7;
+}
+
+@media screen and (max-width: 500px) {
+  .list {
+    flex-direction: column;
+    height: auto;
+  }
+  .items:nth-child(1) {
+    border-top: 1px solid rgba(255, 255, 255, 0.555);
+    margin-top: 50px;
+  }
+  .items {
+    width: 100%;
+    border-top: 1px solid rgba(255, 255, 255, 0.555);
+    text-align: center;
+    margin-right: 0px;
+    padding: 20px 0;
+  }
+  .btn {
+    display: block;
+  }
+}

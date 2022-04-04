@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Gaegu:wght@700&display=swap");
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  margin-top: 20px;
+  animation: App-logo-spin infinite 5s linear;
+}
+
+.background {
+  background: url("https://i.imgur.com/gb0Mznv.png") no-repeat center center
+    fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.bottom {
+  margin: auto;
+  display: flex;
+  width: 80%;
+  align-items: center;
+  background-color: blue;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotateY(45deg);
+  }
+  to {
+    transform: rotateY(225deg);
+  }
+}
