@@ -10,7 +10,10 @@ function App() {
         <Navigation />
       </div>
       <div className="text-center">
-        <img src="https://i.imgur.com/kMhUACm.png" className="App-logo" />
+        <img
+          src={require("https://i.imgur.com/kMhUACm.png")}
+          className="App-logo"
+        />
       </div>
       <Textbox />
       <br></br>
