@@ -1,9 +1,15 @@
 import "./App.css";
+import React, { useEffect } from "react";
+
 import "bootstrap/dist/css/bootstrap.min.css";
 import Textbox from "./components/Textbox/Textbox";
 import Navigation from "./components/Navbar/MyNavbar";
 
 function App() {
+  useEffect(() => {
+    document.title = "CROissant";
+  }, []);
+
   return (
     <div className="background">
       <div>
