@@ -1,38 +1,36 @@
-.App {
-  text-align: center;
-}
+@import url("https://fonts.googleapis.com/css2?family=Gaegu:wght@700&display=swap");
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  margin-top: 20px;
+  animation: App-logo-spin infinite 5s linear;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.background {
+  background: url("https://i.imgur.com/gb0Mznv.png") no-repeat center center
+    fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.bottom {
+  margin: auto;
   display: flex;
-  flex-direction: column;
+  width: 80%;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
+  background-color: blue;
 }
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotateY(45deg);
   }
   to {
-    transform: rotate(360deg);
+    transform: rotateY(225deg);
   }
 }
