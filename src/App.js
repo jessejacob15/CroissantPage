@@ -4,12 +4,9 @@ import React, { useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Textbox from "./components/Textbox/Textbox";
 import Navigation from "./components/Navbar/MyNavbar";
+import Textbox2 from "./components/Textbox2/Textbox2";
 
 function App() {
-  useEffect(() => {
-    document.title = "CROissant";
-  }, []);
-
   return (
     <div className="background">
       <div>
@@ -21,6 +18,7 @@ function App() {
       <Textbox />
       <br></br>
       <br></br>
+      <Textbox2 />
     </div>
   );
 }
