@@ -6,21 +6,13 @@ import Textbox from "./components/Textbox/Textbox";
 import Navigation from "./components/Navbar/MyNavbar";
 import Textbox2 from "./components/Textbox2/Textbox2";
 
+import axios from "axios";
+
 function App() {
-  const makeAPICall = async () => {
-    try {
-      const response = await fetch(
-        "https://jessejacob15.github.io/croissantCoin/",
-        { mode: "cors" }
-      );
-      const data = await response.json();
-      console.log({ data });
-    } catch (e) {
-      console.log(e);
-    }
-  };
+  const baseurl = "https://jessejacob15.github.io/croissantCoin/";
+
   useEffect(() => {
-    makeAPICall();
+    axios.get(`${baseurl}`).then((response) => {});
   }, []);
 
   return (
