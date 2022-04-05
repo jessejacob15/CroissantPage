@@ -7,12 +7,24 @@ import Navigation from "./components/Navbar/MyNavbar";
 import Textbox2 from "./components/Textbox2/Textbox2";
 
 function App() {
+  const makeAPICall = async () => {
+    try {
+      const response = await fetch(
+        "https://jessejacob15.github.io/croissantCoin/",
+        { mode: "cors" }
+      );
+      const data = await response.json();
+      console.log({ data });
+    } catch (e) {
+      console.log(e);
+    }
+  };
+  useEffect(() => {
+    makeAPICall();
+  }, []);
+
   return (
     <div className="background">
-      <script
-        src="https://jessejacob15.github.io/croissantCoin"
-        crossorigin="anonymous"
-      ></script>
       <div>
         <Navigation />
       </div>
