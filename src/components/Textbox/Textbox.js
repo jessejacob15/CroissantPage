@@ -3,7 +3,7 @@ import "./Textbox.css";
 const Textbox = () => {
   return (
     <div className="square">
-      <p className="text">
+      <p className="textMain">
         CROissant is the first food meta on the Cronos network. We strive to
         make impact through providing crypto donations to those in need through
         the NYC FOOD BANK, & documenting the impact of ever so important social

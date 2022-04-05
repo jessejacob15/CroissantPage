@@ -17,8 +17,8 @@ function App() {
       </div>
       <Textbox />
       <br></br>
-      <br></br>
       <Textbox2 />
+      <br></br>
     </div>
   );
 }

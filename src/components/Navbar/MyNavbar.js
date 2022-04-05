@@ -5,7 +5,7 @@ import "./Navbar.css";
 const Navigation = () => {
   return (
     <>
-      <Navbar expand="lg">
+      <Navbar expand="lg" className="myNav">
         <Container>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
@@ -18,7 +18,12 @@ const Navigation = () => {
               </Nav.Link>
               <Nav.Link href="#">Whitepaper—Coming Soon</Nav.Link>
               <Nav.Link href="#">Chart—Coming Soon</Nav.Link>
-              <Nav.Link href="#">Buy—Coming Soon</Nav.Link>
+              <Nav.Link
+                href="https://mm.finance/swap?outputCurrency=0xae443ed39257d1346b0c71b5bc258afd5bcd7ce8"
+                className="buyBox"
+              >
+                <div className="buyButton">Buy</div>
+              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
