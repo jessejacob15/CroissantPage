@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/croissantCoin/static/css/main.21b3b125.chunk.css",
+    "main.css": "/croissantCoin/static/css/main.14f02507.chunk.css",
     "main.js": "/croissantCoin/static/js/main.143c013d.chunk.js",
     "main.js.map": "/croissantCoin/static/js/main.143c013d.chunk.js.map",
     "runtime-main.js": "/croissantCoin/static/js/runtime-main.95956df1.js",
@@ -10,14 +10,14 @@
     "static/js/2.d4b579df.chunk.js.map": "/croissantCoin/static/js/2.d4b579df.chunk.js.map",
     "index.html": "/croissantCoin/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/croissantCoin/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.21b3b125.chunk.css.map": "/croissantCoin/static/css/main.21b3b125.chunk.css.map",
+    "static/css/main.14f02507.chunk.css.map": "/croissantCoin/static/css/main.14f02507.chunk.css.map",
     "static/js/2.d4b579df.chunk.js.LICENSE.txt": "/croissantCoin/static/js/2.d4b579df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.95956df1.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.d4b579df.chunk.js",
-    "static/css/main.21b3b125.chunk.css",
+    "static/css/main.14f02507.chunk.css",
     "static/js/main.143c013d.chunk.js"
   ]
 }
