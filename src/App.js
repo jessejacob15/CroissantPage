@@ -6,15 +6,7 @@ import Textbox from "./components/Textbox/Textbox";
 import Navigation from "./components/Navbar/MyNavbar";
 import Textbox2 from "./components/Textbox2/Textbox2";
 
-import axios from "axios";
-
 function App() {
-  const baseurl = "https://jessejacob15.github.io/croissantCoin/";
-
-  useEffect(() => {
-    axios.get(`${baseurl}`).then((response) => {});
-  }, []);
-
   return (
     <div className="background">
       <div>
