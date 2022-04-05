@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/croissantCoin/static/css/main.14f02507.chunk.css",
-    "main.js": "/croissantCoin/static/js/main.143c013d.chunk.js",
-    "main.js.map": "/croissantCoin/static/js/main.143c013d.chunk.js.map",
+    "main.js": "/croissantCoin/static/js/main.6e4a8a6d.chunk.js",
+    "main.js.map": "/croissantCoin/static/js/main.6e4a8a6d.chunk.js.map",
     "runtime-main.js": "/croissantCoin/static/js/runtime-main.95956df1.js",
     "runtime-main.js.map": "/croissantCoin/static/js/runtime-main.95956df1.js.map",
     "static/css/2.0a9ec390.chunk.css": "/croissantCoin/static/css/2.0a9ec390.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.d4b579df.chunk.js",
     "static/css/main.14f02507.chunk.css",
-    "static/js/main.143c013d.chunk.js"
+    "static/js/main.6e4a8a6d.chunk.js"
   ]
 }
