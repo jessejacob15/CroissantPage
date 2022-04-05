@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/croissantCoin/static/css/main.14f02507.chunk.css",
-    "main.js": "/croissantCoin/static/js/main.6e4a8a6d.chunk.js",
-    "main.js.map": "/croissantCoin/static/js/main.6e4a8a6d.chunk.js.map",
+    "main.js": "/croissantCoin/static/js/main.e5f9016c.chunk.js",
+    "main.js.map": "/croissantCoin/static/js/main.e5f9016c.chunk.js.map",
     "runtime-main.js": "/croissantCoin/static/js/runtime-main.95956df1.js",
     "runtime-main.js.map": "/croissantCoin/static/js/runtime-main.95956df1.js.map",
     "static/css/2.0a9ec390.chunk.css": "/croissantCoin/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.d4b579df.chunk.js": "/croissantCoin/static/js/2.d4b579df.chunk.js",
-    "static/js/2.d4b579df.chunk.js.map": "/croissantCoin/static/js/2.d4b579df.chunk.js.map",
+    "static/js/2.36cc22d9.chunk.js": "/croissantCoin/static/js/2.36cc22d9.chunk.js",
+    "static/js/2.36cc22d9.chunk.js.map": "/croissantCoin/static/js/2.36cc22d9.chunk.js.map",
     "index.html": "/croissantCoin/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/croissantCoin/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.14f02507.chunk.css.map": "/croissantCoin/static/css/main.14f02507.chunk.css.map",
-    "static/js/2.d4b579df.chunk.js.LICENSE.txt": "/croissantCoin/static/js/2.d4b579df.chunk.js.LICENSE.txt"
+    "static/js/2.36cc22d9.chunk.js.LICENSE.txt": "/croissantCoin/static/js/2.36cc22d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.95956df1.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.d4b579df.chunk.js",
+    "static/js/2.36cc22d9.chunk.js",
     "static/css/main.14f02507.chunk.css",
-    "static/js/main.6e4a8a6d.chunk.js"
+    "static/js/main.e5f9016c.chunk.js"
   ]
 }
