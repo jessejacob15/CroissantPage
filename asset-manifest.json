@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/croissantCoin/static/css/main.14f02507.chunk.css",
-    "main.js": "/croissantCoin/static/js/main.143c013d.chunk.js",
-    "main.js.map": "/croissantCoin/static/js/main.143c013d.chunk.js.map",
-    "runtime-main.js": "/croissantCoin/static/js/runtime-main.95956df1.js",
-    "runtime-main.js.map": "/croissantCoin/static/js/runtime-main.95956df1.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/croissantCoin/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.d4b579df.chunk.js": "/croissantCoin/static/js/2.d4b579df.chunk.js",
-    "static/js/2.d4b579df.chunk.js.map": "/croissantCoin/static/js/2.d4b579df.chunk.js.map",
-    "index.html": "/croissantCoin/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/croissantCoin/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.14f02507.chunk.css.map": "/croissantCoin/static/css/main.14f02507.chunk.css.map",
-    "static/js/2.d4b579df.chunk.js.LICENSE.txt": "/croissantCoin/static/js/2.d4b579df.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.14f02507.chunk.css",
+    "main.js": "/static/js/main.143c013d.chunk.js",
+    "main.js.map": "/static/js/main.143c013d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a157d791.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a157d791.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d4b579df.chunk.js": "/static/js/2.d4b579df.chunk.js",
+    "static/js/2.d4b579df.chunk.js.map": "/static/js/2.d4b579df.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.14f02507.chunk.css.map": "/static/css/main.14f02507.chunk.css.map",
+    "static/js/2.d4b579df.chunk.js.LICENSE.txt": "/static/js/2.d4b579df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.95956df1.js",
+    "static/js/runtime-main.a157d791.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.d4b579df.chunk.js",
     "static/css/main.14f02507.chunk.css",
