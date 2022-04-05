@@ -15,6 +15,9 @@ function App() {
       <div className="text-center">
         <img src="https://i.imgur.com/kMhUACm.png" className="App-logo" />
       </div>
+      <div className="slogan">
+        “Food token mixing creativity with philanthropy”
+      </div>
       <Textbox />
       <br></br>
       <Textbox2 />
