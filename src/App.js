@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Textbox from "./components/Textbox/Textbox";
 import Navigation from "./components/Navbar/MyNavbar";
 import Textbox2 from "./components/Textbox2/Textbox2";
-import Textbox3 from "./components/Textbox3/Textbox3";
+// import Textbox3 from "./components/Textbox3/Textbox3";
 
 function App() {
   return (
@@ -23,7 +23,7 @@ function App() {
       <br></br>
       <Textbox2 />
       <br></br>
-      <Textbox3 />
+      {/* <Textbox3 /> */}
     </div>
   );
 }
