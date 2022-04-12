@@ -7,6 +7,7 @@ import Navigation from "./components/Navbar/MyNavbar";
 
 import Textbox3 from "./components/Textbox3/Textbox3";
 import Textbox4 from "./components/Textbox4/Textbox4";
+import Textbox5 from "./components/Textbox5/Textbox5";
 
 function App() {
   return (
@@ -22,10 +23,11 @@ function App() {
       </div>
       <Textbox />
       <br></br>
-
       <Textbox3 />
       <br></br>
       <Textbox4 />
+      <br></br>
+      <Textbox5 />
       <br></br>
     </div>
   );

@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Gaegu:wght@700&display=swap");
+
+.bulletTitle {
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #f5f3f3;
+  color: #ff00ff;
+  font-weight: bolder;
+}
+
+.squareBullet-test {
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: #f5f3f3;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.textBullet {
+  text-align: left;
+  font-family: Gaegu;
+}
+
+.textBullet-test {
+  text-align: center;
+  font-family: Gaegu;
+}
+
+.bulletItem-test {
+  text-align: center;
+}
+
+.bulletItem {
+  background-color: #f5f3f3;
+  
+}
+
+@media screen and (min-width: 601px) {
+  .textBullet {
+    font-size: 30px;
+  }
+  .bulletTitle {
+    font-size: 50px;
+  }
+
+  .textMain {
+    font-size: 30px;
+  }
+
+  .slogan {
+    font-size: 50px;
+  }
+
+  .bakery-sub {
+    font-size: 35px;
+  }
+
+  .bakery-info {
+    font-size: 30px;
+  }
+
+  .link {
+    font-size: 30px;
+  }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  .textBullet {
+    font-size: 10px;
+  }
+  .bulletTitle {
+    font-size: 20px;
+  }
+
+  .textMain {
+    font-size: 10px;
+  }
+
+  .slogan {
+    font-size: 20px;
+  }
+
+  .bakery-sub {
+    font-size: 15px;
+  }
+
+  .bakery-info {
+    font-size: 10px;
+  }
+
+  .link {
+    font-size: 10px;
+  }
+}
+
+.iconDetails {
+  margin-left:2%;
+ height:100px;
+ width:100px; 
+ } 
+
+ 
+ .bakIcon {
+   height: 15%;
+   width: 15%;
+   padding-right: 2%;
+   float: left;
+ }
+
+ .bakery-sub {
+  color: black;
+}
+
+.link {
+color: black  
+}
