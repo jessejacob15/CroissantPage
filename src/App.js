@@ -4,8 +4,9 @@ import React, { useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Textbox from "./components/Textbox/Textbox";
 import Navigation from "./components/Navbar/MyNavbar";
-import Textbox2 from "./components/Textbox2/Textbox2";
-// import Textbox3 from "./components/Textbox3/Textbox3";
+
+import Textbox3 from "./components/Textbox3/Textbox3";
+import Textbox4 from "./components/Textbox4/Textbox4";
 
 function App() {
   return (
@@ -21,9 +22,11 @@ function App() {
       </div>
       <Textbox />
       <br></br>
-      <Textbox2 />
+
+      <Textbox3 />
       <br></br>
-      {/* <Textbox3 /> */}
+      <Textbox4 />
+      <br></br>
     </div>
   );
 }

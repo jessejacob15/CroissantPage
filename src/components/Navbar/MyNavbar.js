@@ -10,8 +10,11 @@ const Navigation = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="m-auto">
-              <Nav.Link href="https://t.me/crossiantportal">
+              <Nav.Link href="https://t.me/croissantdao">
                 <h1>Telegram</h1>
+              </Nav.Link>
+              <Nav.Link href="https://vm.tiktok.com/ZTdxousAF/">
+                <h1>TikTok</h1>
               </Nav.Link>
               <Nav.Link href="https://twitter.com/CroissantDAO">
                 <h1>Twitter</h1>
