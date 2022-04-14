@@ -5,7 +5,7 @@ import "./Navbar.css";
 const Navigation = () => {
   return (
     <>
-      <Navbar expand="lg" className="myNav">
+      <Navbar expand="lg" className="myNav" fixed="top">
         <Container>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
