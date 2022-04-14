@@ -1,5 +1,5 @@
 import "./App.css";
-import web3 from "./web3";
+//import web3 from "./web3";
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Textbox from "./components/Textbox/Textbox";
@@ -11,19 +11,19 @@ import Textbox5 from "./components/Textbox5/Textbox5";
 import Textbox6 from "./components/Textbox6/Textbox6";
 
 class App extends React.Component {
-  state = {
-    croBalance: "",
-  };
-  async componentDidMount() {
-    const balance = await web3.eth.getBalance(
-      "0xf191041b58924A3Cc6a79CD637749C083E7328CE"
-    );
-    const etherBalance = await web3.utils.fromWei(balance, "ether");
-    const finalBalance = etherBalance.substring(0, 6);
-    // console.log(balance);
+  // state = {
+  //   croBalance: "",
+  // };
+  // async componentDidMount() {
+  //   const balance = await web3.eth.getBalance(
+  //     "0xf191041b58924A3Cc6a79CD637749C083E7328CE"
+  //   );
+  //   const etherBalance = await web3.utils.fromWei(balance, "ether");
+  //   const finalBalance = etherBalance.substring(0, 6);
+  //   // console.log(balance);
 
-    this.setState({ croBalance: finalBalance });
-  }
+  //   this.setState({ croBalance: finalBalance });
+  // }
 
   render() {
     return (
@@ -41,8 +41,8 @@ class App extends React.Component {
         </div>
         <Textbox />
         <br></br>
-        <Textbox6 balance={this.state.croBalance} />
-        <br></br>
+        {/* <Textbox6 balance={this.state.croBalance} />
+        <br></br> */}
         <Textbox3 />
         <br></br>
         <Textbox4 />
