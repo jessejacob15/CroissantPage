@@ -1,7 +1,7 @@
 import "./Textbox5.css";
 import ListGroup from "react-bootstrap/ListGroup";
 
-const Textbox4 = () => {
+const Textbox5 = () => {
   return (
     <div className="squareBullet-test">
       <p className="textBullet-test">
@@ -28,4 +28,4 @@ const Textbox4 = () => {
   );
 };
 
-export default Textbox4;
+export default Textbox5;
