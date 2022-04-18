@@ -32,8 +32,11 @@ class App extends React.Component {
           <Navigation />
         </div>
 
-        <div className="text-center">
-          <img src="https://i.imgur.com/kMhUACm.png" className="App-logo" />
+        <div className="d-flex justify-content-center">
+          <img src="https://i.imgur.com/nROkuvQ.png" className="App-logo-2" />
+          <img src="https://i.imgur.com/2LMzj8H.png" className="App-logo" />
+
+          <img src="https://i.imgur.com/nROkuvQ.png" className="App-logo-3" />
         </div>
 
         <div className="slogan">

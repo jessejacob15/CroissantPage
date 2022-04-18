@@ -2,10 +2,34 @@
 
 .App-logo {
   height: 40vmin;
+  width: 100vmin;
   pointer-events: none;
-  margin-top: 50px;
-  animation: App-logo-spin infinite 5s linear;
+  margin-top: 40px;
+  /* animation: App-logo-spin infinite 5s linear; */
 }
+
+.App-logo-2 {
+  height: 30vmin;
+  width: 30vmin;
+  float:right;
+  pointer-events: none;
+  margin-top: 60px;
+
+  animation: App-logo-spin infinite 8s linear; 
+}
+
+.App-logo-3 {
+  height: 30vmin;
+  width: 30vmin;
+  float:left;
+  pointer-events: none;
+  margin-top: 60px;
+  animation: App-logo-spin infinite 8s linear; 
+}
+
+
+
+
 
 .background {
   background: url("https://i.imgur.com/gb0Mznv.png") no-repeat center center
@@ -39,9 +63,9 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: rotateY(45deg);
+    transform: rotateY(0);
   }
   to {
-    transform: rotateY(225deg);
+    transform: rotateY(359deg);
   }
 }
