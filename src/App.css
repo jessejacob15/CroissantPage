@@ -1,16 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Gaegu:wght@700&display=swap");
 
 .App-logo {
-  height: 40vmin;
-  width: 100vmin;
+ 
   pointer-events: none;
   margin-top: 40px;
   /* animation: App-logo-spin infinite 5s linear; */
 }
 
 .App-logo-2 {
-  height: 30vmin;
-  width: 30vmin;
+  /* height: 30vmin;
+  width: 30vmin; */
   float:right;
   pointer-events: none;
   margin-top: 60px;
@@ -19,8 +18,8 @@
 }
 
 .App-logo-3 {
-  height: 30vmin;
-  width: 30vmin;
+  /* height: 30vmin;
+  width: 30vmin; */
   float:left;
   pointer-events: none;
   margin-top: 60px;
