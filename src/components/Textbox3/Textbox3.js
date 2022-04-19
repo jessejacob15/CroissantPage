@@ -17,7 +17,7 @@ const Textbox3 = () => {
                   href="https://twobakeriesandarestaurant.com/la-tropezienne-bakery"
                   className="bakery-sub"
                 >
-                  La Tropezienne
+                  La Tropezienne🇺🇸
                 </a>
               </h2>
               <h3 className="bakery-info">
@@ -34,12 +34,13 @@ const Textbox3 = () => {
               </h3>
             </div>
           </ListGroup.Item>
+
           <ListGroup.Item className="bulletItem">
             <div className="bakery">
               <img src="https://i.imgur.com/xjtbgw4b.png" className="bakIcon" />
               <h2 className="bakery-sub">
                 <a href="https://www.cecicelanyc.com/" className="bakery-sub">
-                  Ceci Cela
+                  Ceci Cela🇺🇸
                 </a>
               </h2>
               <h3 className="bakery-info">
@@ -50,6 +51,26 @@ const Textbox3 = () => {
                 decadence and delight to everyday New Yorkers, and has since
                 expanded wholesale and delivery operations to share the French
                 café experience with guests across the country.
+              </h3>
+            </div>
+          </ListGroup.Item>
+          <ListGroup.Item className="bulletItem">
+            <div className="bakery">
+              <img src="https://i.imgur.com/5Fg13JD.png" className="bakIcon" />
+              <h2 className="bakery-sub">
+                <a
+                  href="https://www.instagram.com/mercatomixrj/"
+                  className="bakery-sub"
+                >
+                  Mercato Mix🇧🇷
+                </a>
+              </h2>
+              <h3 className="bakery-info">
+                Located in Rio de Janiero’s residential and historic district of
+                Laranjeiras, Mercato Mix revolutionizes the concept of a juice
+                bar and bakery, in an intimate environment where you can find
+                everything. The difference is precisely the variety and
+                diversity of products and services that satisfy all tastes.
               </h3>
             </div>
           </ListGroup.Item>

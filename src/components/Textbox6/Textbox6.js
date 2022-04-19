@@ -13,7 +13,7 @@ const Textbox6 = ({ balance }) => {
             <h3 className="bakery-info">Balance: {balance} CRO </h3>
           </ListGroup.Item>
           <ListGroup.Item className="bulletItem">
-            <h3 className="bakery-info">Total Croissants Donated: 1200 🥐 </h3>
+            <h3 className="bakery-info">Total Croissants Donated: 1400 🥐 </h3>
           </ListGroup.Item>
           <ListGroup.Item className="bulletItem">
             <h3 className="bakery-info">
