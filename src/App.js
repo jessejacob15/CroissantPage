@@ -31,14 +31,11 @@ class App extends React.Component {
         <div>
           <Navigation />
         </div>
-
         <div className="d-flex justify-content-center">
-          <img src="https://i.imgur.com/nROkuvQ.png" className="App-logo-2" />
-          <img src="https://i.imgur.com/2LMzj8H.png" className="App-logo" />
-
-          <img src="https://i.imgur.com/nROkuvQ.png" className="App-logo-3" />
+          <div className="logoBox">
+            <img src="https://i.imgur.com/XRd1Hqz.png" className="App-logo" />
+          </div>
         </div>
-
         <div className="slogan">
           “Food token mixing creativity with philanthropy”
         </div>

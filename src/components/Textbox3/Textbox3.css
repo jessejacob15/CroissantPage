@@ -20,7 +20,7 @@
 
 .textBullet {
   text-align: left;
-  font-family: Gaegu;
+  font-family: 'Bebas Neue';
 }
 
 .bulletItem {
@@ -29,8 +29,8 @@
 
 @media screen and (min-width: 601px) {
   .App-logo {
-    height: 30vmin;
-    width: 70vmin;
+    height: 50vmin;
+    width: 50vmin;
   
   }
   .App-logo-2 {
@@ -76,7 +76,7 @@
 @media screen and (max-width: 600px) {
 .App-logo {
   height: 30vmin;
-  width: 70vmin;
+  width: 30vmin;
 
 }
   

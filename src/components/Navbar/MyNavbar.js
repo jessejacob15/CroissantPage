@@ -22,8 +22,8 @@ const Navigation = () => {
               <Nav.Link href="https://dexscreener.com/cronos/0xd4bdc69abbb9995f67f0306d19bd3fc1a0ccef5e">
                 <h1>Chart</h1>
               </Nav.Link>
-              <Nav.Link href="#">
-                <h1 className="empty">Whitepaper—Coming Soon</h1>
+              <Nav.Link href="https://docs.google.com/presentation/d/e/2PACX-1vTmp5iBdWy9khUrDw9cIgyUazFmdPkdQMSXKqzx-yzuAmqFewTWDoUB6o__l0_9aAG4SD9nyAcvNTxU/pub?start=false&loop=false&delayms=3000">
+                <h1>Whitepaper</h1>
               </Nav.Link>
               <Nav.Link
                 href="https://mm.finance/swap?outputCurrency=0xae443ed39257d1346b0c71b5bc258afd5bcd7ce8"

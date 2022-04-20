@@ -1,10 +1,15 @@
-@import url("https://fonts.googleapis.com/css2?family=Gaegu:wght@700&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Gaegu:wght@700&display=swap"); */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
-.App-logo {
- 
-  pointer-events: none;
-  margin-top: 40px;
-  /* animation: App-logo-spin infinite 5s linear; */
+
+
+.logoBox {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 5px;
+  margin-top: 5%;
+  margin-bottom: 1%;
+  box-shadow: 10px 15px;
 }
 
 .App-logo-2 {
@@ -46,7 +51,7 @@
   align-items: center;
   align-content: center;
   font-style: italic;
-  font-family: Gaegu;
+  font-family: 'Bebas Neue';
   margin: auto;
   color: white;
   text-shadow: 3px 3px black;

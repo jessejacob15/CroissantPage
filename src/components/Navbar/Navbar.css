@@ -33,7 +33,7 @@ nav {
 }
 
 h1 {
-  font-family: Gaegu;
+  font-family: 'Bebas Neue';
   color: #a702fe;
   font-size: 25px;
 }
@@ -43,7 +43,7 @@ h1:hover {
 }
 
 a {
-  font-family: Gaegu;
+  font-family: 'Bebas Neue';
   font-size: 25px;
   color: #f5f3f3;
 }
