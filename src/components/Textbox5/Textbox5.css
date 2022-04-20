@@ -64,6 +64,9 @@
   .link {
     font-size: 30px;
   }
+  .bulletItem {
+    font-size: 20px;
+  }
 }
 
 /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
@@ -93,6 +96,10 @@
 
   .link {
     font-size: 10px;
+  }
+
+  .bulletItem {
+    font-size: 7px;
   }
 }
 
