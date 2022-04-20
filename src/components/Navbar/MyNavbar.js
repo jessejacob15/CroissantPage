@@ -22,7 +22,7 @@ const Navigation = () => {
               <Nav.Link href="https://dexscreener.com/cronos/0xd4bdc69abbb9995f67f0306d19bd3fc1a0ccef5e">
                 <h1>Chart</h1>
               </Nav.Link>
-              <Nav.Link href="https://docs.google.com/presentation/d/e/2PACX-1vTmp5iBdWy9khUrDw9cIgyUazFmdPkdQMSXKqzx-yzuAmqFewTWDoUB6o__l0_9aAG4SD9nyAcvNTxU/pub?start=false&loop=false&delayms=3000">
+              <Nav.Link href="https://drive.google.com/file/d/1n5xFCPhA0GPbTn06nkLuhsS_-E00renW/view?usp=sharing">
                 <h1>Whitepaper</h1>
               </Nav.Link>
               <Nav.Link

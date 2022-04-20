@@ -9,6 +9,7 @@ import Textbox3 from "./components/Textbox3/Textbox3";
 import Textbox4 from "./components/Textbox4/Textbox4";
 import Textbox5 from "./components/Textbox5/Textbox5";
 import Textbox6 from "./components/Textbox6/Textbox6";
+import Textbox7 from "./components/Textbox7/Textbox7";
 
 class App extends React.Component {
   state = {
@@ -39,14 +40,22 @@ class App extends React.Component {
         <div className="slogan">
           “Food token mixing creativity with philanthropy”
         </div>
+        {/* BLURB BOX */}
         <Textbox />
         <br></br>
+        {/* WALLET BOX */}
         <Textbox6 balance={this.state.croBalance} />
         <br></br>
+        {/* PRESS BOX */}
+        <Textbox7 />
+        <br></br>
+        {/* BAKERIES BOX */}
         <Textbox3 />
         <br></br>
+        {/* DONATIONS BOX */}
         <Textbox4 />
         <br></br>
+        {/* TOKENOMICS BOX */}
         <Textbox5 />
         <br></br>
       </div>
