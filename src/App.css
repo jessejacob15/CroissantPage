@@ -2,13 +2,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 
+.App-logo {
+  height: 50vmin;
+  width: 50vmin;
+
+}
 
 .logoBox {
   border-radius: 5px;
   border-style: solid;
   border-width: 5px;
-  margin-top: 5%;
-  margin-bottom: 1%;
+  
   box-shadow: 10px 15px;
 }
 
