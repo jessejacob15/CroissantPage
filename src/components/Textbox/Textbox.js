@@ -6,8 +6,8 @@ const Textbox = () => {
       <p className="textMain">
         CROissant is the first food token on the CRONOS network. We are a mix of
         creativity and philanthropy. We strive to educate the public about
-        crypto, help small business, and provide philanthropy while creating
-        content to share with the world.
+        crypto, help small businesses, and provide philanthropy while creating
+        engaging content to share with the world.
       </p>
     </div>
   );
