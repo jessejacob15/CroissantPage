@@ -22,7 +22,7 @@ const Navigation = () => {
               <Nav.Link href="https://dexscreener.com/cronos/0xd4bdc69abbb9995f67f0306d19bd3fc1a0ccef5e">
                 <h1>Chart</h1>
               </Nav.Link>
-              <Nav.Link href="https://drive.google.com/file/d/1n5xFCPhA0GPbTn06nkLuhsS_-E00renW/view?usp=sharing">
+              <Nav.Link href="https://croissantdao.com/CroissantDao.pdf">
                 <h1>Whitepaper</h1>
               </Nav.Link>
               <Nav.Link
