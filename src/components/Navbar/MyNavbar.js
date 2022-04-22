@@ -25,10 +25,7 @@ const Navigation = () => {
               >
                 <h1>Chart</h1>
               </Nav.Link>
-              <Nav.Link
-                href="https://croissantdao.com/CroissantDao.pdf"
-                target="_blank"
-              >
+              <Nav.Link href="https://croissantdao.com/CroissantDao.pdf">
                 <h1>Whitepaper</h1>
               </Nav.Link>
               <Nav.Link
