@@ -6,5 +6,5 @@ import Web3 from "web3";
 
 // export default web3;
 
-const web3 = new Web3(Web3.givenProvider || "https://evm-cronos.crypto.org/");
+const web3 = new Web3("https://evm-cronos.crypto.org/");
 export default web3;
